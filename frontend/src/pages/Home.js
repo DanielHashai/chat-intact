@@ -10,7 +10,7 @@ function Home() {
         className="d-flex flex-direction-column align-items-center justify-content-center "
       >
         <div className="temp">
-          <h1>Share the world With your're friends</h1>
+          <h1>Welcome To Chat-Intact</h1>
           <p>Chat App Let's You Connect With The World</p>
           <LinkContainer to="/login">
             <Button variant="primary">Get Started <i className="fas fa-comments home-message-icon"> </i></Button>
