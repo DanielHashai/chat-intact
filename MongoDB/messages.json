@@ -1,0 +1,86 @@
+[{
+  "_id": {
+    "$oid": "641249bfae68ef297b6441f3"
+  },
+  "content": "HELLO EVERYONE !",
+  "from": {
+    "name": "Tobi",
+    "email": "tobi@gmail.com",
+    "picture": "http://res.cloudinary.com/dd5p2nhad/image/upload/v1678920115/k8xpcp0qznibzgctfppv.png",
+    "status": "online",
+    "_id": "641249b3ae68ef297b6441ef",
+    "__v": 0
+  },
+  "time": "0:42",
+  "date": "03/16/2023",
+  "to": "general",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641249d7ae68ef297b6441f6"
+  },
+  "content": "welcome to my awesome chat app",
+  "from": {
+    "_id": "641248e0ae68ef297b6441d4",
+    "name": "Daniel",
+    "email": "daniel@gmail.com",
+    "picture": "http://res.cloudinary.com/dd5p2nhad/image/upload/v1678919904/fjjrqlpcpn4esf67kzzo.jpg",
+    "status": "online",
+    "__v": 0
+  },
+  "time": "0:42",
+  "date": "03/16/2023",
+  "to": "general",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641249e6ae68ef297b6441f9"
+  },
+  "content": "I LOVE THIS ...",
+  "from": {
+    "_id": "6412490aae68ef297b6441d8",
+    "name": "Karina",
+    "email": "karina@gmail.com",
+    "picture": "http://res.cloudinary.com/dd5p2nhad/image/upload/v1678919946/ilmwscnrvhemmwqyekkb.jpg",
+    "status": "online",
+    "__v": 0
+  },
+  "time": "0:42",
+  "date": "03/16/2023",
+  "to": "general",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641249f8ae68ef297b6441fd"
+  },
+  "content": "hello karina :)",
+  "from": {
+    "name": "Tobi",
+    "email": "tobi@gmail.com",
+    "picture": "http://res.cloudinary.com/dd5p2nhad/image/upload/v1678920115/k8xpcp0qznibzgctfppv.png",
+    "status": "online",
+    "_id": "641249b3ae68ef297b6441ef",
+    "__v": 0
+  },
+  "time": "0:43",
+  "date": "03/16/2023",
+  "to": "641249b3ae68ef297b6441ef-6412490aae68ef297b6441d8",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64124a0aae68ef297b644201"
+  },
+  "content": "Hi cute doggy ",
+  "from": {
+    "_id": "6412490aae68ef297b6441d8",
+    "name": "Karina",
+    "email": "karina@gmail.com",
+    "picture": "http://res.cloudinary.com/dd5p2nhad/image/upload/v1678919946/ilmwscnrvhemmwqyekkb.jpg",
+    "status": "online",
+    "__v": 0
+  },
+  "time": "0:43",
+  "date": "03/16/2023",
+  "to": "641249b3ae68ef297b6441ef-6412490aae68ef297b6441d8",
+  "__v": 0
+}]
